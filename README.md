@@ -1,5 +1,5 @@
 # HAPPY NEW YEAR2022
-!(Demo-Image)[demo.gif]
+![Demo-image](demo.gif)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
